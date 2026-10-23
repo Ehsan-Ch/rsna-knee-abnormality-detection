@@ -1,0 +1,14 @@
+{
+  "baseline_public_auc_displayed": 0.958,
+  "baseline_version": 360371736,
+  "candidate_version": 361061645,
+  "candidate_url": "https://www.kaggle.com/code/ehsan1993/ehsan-rsna-v4-optimized?scriptVersionId=361061645",
+  "editor_url": "https://www.kaggle.com/code/ehsan1993/ehsan-rsna-v4-optimized/edit",
+  "local_tests": "7 passed",
+  "test_environment_note": "Spearman diagnostics evaluated as Pearson of average ranks because local SciPy unavailable; notebook production code unchanged.",
+  "kaggle_status": "Hidden-test notebook running",
+  "submitted": true,
+  "candidate_score": null,
+  "candidate_preview_seconds": 514.6,
+  "preview_byte_parity": true
+}

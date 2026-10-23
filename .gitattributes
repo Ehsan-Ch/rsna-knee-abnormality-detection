@@ -1,0 +1,5 @@
+* -text
+*.md text eol=lf
+notebooks/*.ipynb text eol=lf
+scripts/*.py text eol=lf
+requirements-local.txt text eol=lf

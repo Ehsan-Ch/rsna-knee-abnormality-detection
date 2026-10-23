@@ -1,0 +1,246 @@
+{
+  "assembled_on": "2026-10-23",
+  "note": "Exact recovered file bytes before repository-specific normalization; no reconstructed historical commits.",
+  "files": [
+    {
+      "path": "experiments/v4/baseline.ipynb",
+      "source_group": "recovered_v4_workspace",
+      "sha256": "8abf0941121fe8c01fd9d5695fe693f9e112442ee76498831b4229c933e3491e",
+      "bytes": 417364
+    },
+    {
+      "path": "experiments/v4/blend_v4.py",
+      "source_group": "recovered_v4_workspace",
+      "sha256": "d0fe02264db75ab4c91ae8e035d53f0029b25f58e4a83646047992e62d7f4d1a",
+      "bytes": 7137
+    },
+    {
+      "path": "experiments/v4/build.py",
+      "source_group": "recovered_v4_workspace",
+      "sha256": "f09aed2d983cf6a82486c04e46a40b3a9bba4676426948157938abdd4c80ad19",
+      "bytes": 10444
+    },
+    {
+      "path": "experiments/v4/Ehsan_RSNA_V4_Optimized.ipynb",
+      "source_group": "recovered_v4_workspace",
+      "sha256": "2126330da3ad77794cf377d7c6f48a37f5d179ef7af32258dd9ed083a04f232f",
+      "bytes": 426701
+    },
+    {
+      "path": "experiments/v4/embedded/compact_infer.py",
+      "source_group": "recovered_v4_workspace",
+      "sha256": "48514a4997f02690aa558bc8019472339fa2efae5f1e634d177197da3793325f",
+      "bytes": 85589
+    },
+    {
+      "path": "experiments/v4/embedded/compact_train.py",
+      "source_group": "recovered_v4_workspace",
+      "sha256": "cf492084b8d1a159d2954495e13eb23056b8aefd6ba32c5e4a28f90784f9b252",
+      "bytes": 233380
+    },
+    {
+      "path": "experiments/v4/embedded/knee_anchor_bank_v2.py",
+      "source_group": "recovered_v4_workspace",
+      "sha256": "135f8a1f96794d1c0c5248c1ecc072b0bca8a519fe8a4455c6f97a5fec7d8d13",
+      "bytes": 14808
+    },
+    {
+      "path": "experiments/v4/embedded/probe_dual.py",
+      "source_group": "recovered_v4_workspace",
+      "sha256": "5c7074a5c42486245cb98ce18dba0f4f980fab510d52b7b999125f0cd4913aae",
+      "bytes": 9383
+    },
+    {
+      "path": "experiments/v4/embedded/probe_infer.py",
+      "source_group": "recovered_v4_workspace",
+      "sha256": "4cf50458f1b3731dbb6e58fce992580f2f48322bb2f9e4896a9eda3ec6d171b8",
+      "bytes": 19201
+    },
+    {
+      "path": "experiments/v4/embedded/px_cache.py",
+      "source_group": "recovered_v4_workspace",
+      "sha256": "f64e566d668a188987ef314ef9bc956e20a0e0077f1e5c61eea3af19e430afba",
+      "bytes": 20622
+    },
+    {
+      "path": "experiments/v4/embedded/side_common.py",
+      "source_group": "recovered_v4_workspace",
+      "sha256": "ac4d4c2ac31fa6511c0aeaf93a6e31a5349d70b28e05559a9d298c7571c828d6",
+      "bytes": 1606
+    },
+    {
+      "path": "experiments/v4/extract.cjs",
+      "source_group": "recovered_v4_workspace",
+      "sha256": "4ac159e7dc5ab7e0359259e115e1cff20eb3428da901fa8e7b40e0375a5daf9c",
+      "bytes": 595
+    },
+    {
+      "path": "experiments/v4/io_source.py",
+      "source_group": "recovered_v4_workspace",
+      "sha256": "8d23f3f4a40fd4a262cd830a981ddc16d898d88841c0330241149e407f5ffa45",
+      "bytes": 3550
+    },
+    {
+      "path": "experiments/v4/raptor224.py",
+      "source_group": "recovered_v4_workspace",
+      "sha256": "95de0f171f12381e00d852ff51c85b615deb8dcb5a67f1c723cf1419e49a114b",
+      "bytes": 96542
+    },
+    {
+      "path": "experiments/v4/raptor384.py",
+      "source_group": "recovered_v4_workspace",
+      "sha256": "a67f4b0d1a572c958aba7232a7a915faa793c00e8888fb5c1ddd0a8bd7032e76",
+      "bytes": 96925
+    },
+    {
+      "path": "experiments/v4/setup_r6.py",
+      "source_group": "recovered_v4_workspace",
+      "sha256": "9679c1a7b0727e95d2cc7e459f66297019b6cc238f6fd1d6c1d3a059f4bab20d",
+      "bytes": 160326
+    },
+    {
+      "path": "experiments/v4/test_revision.py",
+      "source_group": "recovered_v4_workspace",
+      "sha256": "319855c87e791bd0eeebf9d937d598ad75d6fa61d755ec0eb4cb1e247fec09dc",
+      "bytes": 7117
+    },
+    {
+      "path": "experiments/v5/baseline_v4.ipynb",
+      "source_group": "recovered_v5_workspace",
+      "sha256": "2126330da3ad77794cf377d7c6f48a37f5d179ef7af32258dd9ed083a04f232f",
+      "bytes": 426701
+    },
+    {
+      "path": "experiments/v5/build_v5.py",
+      "source_group": "recovered_v5_workspace",
+      "sha256": "2a018c950920bcbacb90a46b4f2cbcb1d6616e582c60ed8c7fa172a99abf1f7f",
+      "bytes": 14001
+    },
+    {
+      "path": "experiments/v5/candidate_sources/compact_infer.py",
+      "source_group": "recovered_v5_workspace",
+      "sha256": "e49588af37e19198041089fbb110f3327da4cbbb2cccb645e473a8a4015938e2",
+      "bytes": 86389
+    },
+    {
+      "path": "experiments/v5/candidate_sources/compact_train.py",
+      "source_group": "recovered_v5_workspace",
+      "sha256": "04df7e2e154b2c2521696908f272940c63ce17e9b6337b85847fee64504eeaba",
+      "bytes": 230308
+    },
+    {
+      "path": "experiments/v5/candidate_sources/knee_anchor_bank_v2.py",
+      "source_group": "recovered_v5_workspace",
+      "sha256": "e564807a129dfcd3c984348917436ee6083066a4d685340587ebd1d3ea14f309",
+      "bytes": 14529
+    },
+    {
+      "path": "experiments/v5/candidate_sources/phase_sampling.py",
+      "source_group": "recovered_v5_workspace",
+      "sha256": "18fd5e51c2bb27c7736847a87c05e215ee101330e4068a1171a3016e86ff609f",
+      "bytes": 2585
+    },
+    {
+      "path": "experiments/v5/candidate_sources/probe_dual.py",
+      "source_group": "recovered_v5_workspace",
+      "sha256": "5341584ac796a6167731714e015d3b14223fce23b3393c7a54b8028e37836e57",
+      "bytes": 9205
+    },
+    {
+      "path": "experiments/v5/candidate_sources/probe_infer.py",
+      "source_group": "recovered_v5_workspace",
+      "sha256": "7502e6057fd0b23b87962e7bcc4a0657472c38a0812c05d9d4ebb9a2ed63fca5",
+      "bytes": 18812
+    },
+    {
+      "path": "experiments/v5/candidate_sources/px_cache.py",
+      "source_group": "recovered_v5_workspace",
+      "sha256": "b13e38a7ad3bd496f8027e02209653e224b0926db4f0853eeb0d076a2d6e2632",
+      "bytes": 20263
+    },
+    {
+      "path": "experiments/v5/candidate_sources/side_common.py",
+      "source_group": "recovered_v5_workspace",
+      "sha256": "bbcc5d027834e6a6fd48c4a8cf228e25661b7522c792587c840fe4d7cd5c0566",
+      "bytes": 1571
+    },
+    {
+      "path": "experiments/v5/coatnet_4.py",
+      "source_group": "recovered_v5_workspace",
+      "sha256": "0546d87f2a6029a9383afa552dd24b4f547f664a84d260f9d72c1b1f57c6d317",
+      "bytes": 96958
+    },
+    {
+      "path": "experiments/v5/coatnet_7.py",
+      "source_group": "recovered_v5_workspace",
+      "sha256": "aa37f4e4076eb3674925e4371a2315ffdb0a08d1fc0de30d873d883349d3dc73",
+      "bytes": 96922
+    },
+    {
+      "path": "experiments/v5/Ehsan_RSNA_V5_Three_Offset_Experimental.ipynb",
+      "source_group": "recovered_v5_workspace",
+      "sha256": "8b4ad400c0fb64234ff2e956b881ed9281b9b0ebab5a116ddf09804101576607",
+      "bytes": 424886
+    },
+    {
+      "path": "experiments/v5/phase_sampling.py",
+      "source_group": "recovered_v5_workspace",
+      "sha256": "5885b3540877843e81a562c633453e41bc875007ec0c0cac0ce476f8b086a97f",
+      "bytes": 2586
+    },
+    {
+      "path": "experiments/v5/sources/compact_infer.py",
+      "source_group": "recovered_v5_workspace",
+      "sha256": "48514a4997f02690aa558bc8019472339fa2efae5f1e634d177197da3793325f",
+      "bytes": 85589
+    },
+    {
+      "path": "experiments/v5/sources/compact_train.py",
+      "source_group": "recovered_v5_workspace",
+      "sha256": "cf492084b8d1a159d2954495e13eb23056b8aefd6ba32c5e4a28f90784f9b252",
+      "bytes": 233380
+    },
+    {
+      "path": "experiments/v5/sources/knee_anchor_bank_v2.py",
+      "source_group": "recovered_v5_workspace",
+      "sha256": "135f8a1f96794d1c0c5248c1ecc072b0bca8a519fe8a4455c6f97a5fec7d8d13",
+      "bytes": 14808
+    },
+    {
+      "path": "experiments/v5/sources/probe_dual.py",
+      "source_group": "recovered_v5_workspace",
+      "sha256": "5c7074a5c42486245cb98ce18dba0f4f980fab510d52b7b999125f0cd4913aae",
+      "bytes": 9383
+    },
+    {
+      "path": "experiments/v5/sources/probe_infer.py",
+      "source_group": "recovered_v5_workspace",
+      "sha256": "4cf50458f1b3731dbb6e58fce992580f2f48322bb2f9e4896a9eda3ec6d171b8",
+      "bytes": 19201
+    },
+    {
+      "path": "experiments/v5/sources/px_cache.py",
+      "source_group": "recovered_v5_workspace",
+      "sha256": "f64e566d668a188987ef314ef9bc956e20a0e0077f1e5c61eea3af19e430afba",
+      "bytes": 20622
+    },
+    {
+      "path": "experiments/v5/sources/side_common.py",
+      "source_group": "recovered_v5_workspace",
+      "sha256": "ac4d4c2ac31fa6511c0aeaf93a6e31a5349d70b28e05559a9d298c7571c828d6",
+      "bytes": 1606
+    },
+    {
+      "path": "experiments/v5/test_v5.py",
+      "source_group": "recovered_v5_workspace",
+      "sha256": "4726018fff2d3c8b4167d197898473f322afde63c48c0eee2977b631b6451879",
+      "bytes": 8076
+    },
+    {
+      "path": "evidence/v4_status_at_submission.json",
+      "source_group": "recovered_v4_workspace",
+      "sha256": "34652d43f1340b2122c4e323af7d4215f84f4348a56abf45bc9882d8c72a0dc9",
+      "bytes": 675
+    }
+  ]
+}

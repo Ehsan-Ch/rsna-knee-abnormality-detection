@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-23",
+  "status": "passed",
+  "python": "3.12.14",
+  "tests": [
+    {
+      "version": "v4",
+      "tests_passed": 7,
+      "scope": "local_synthetic_or_mocked"
+    },
+    {
+      "version": "v5",
+      "tests_passed": 8,
+      "scope": "local_synthetic_or_mocked"
+    }
+  ],
+  "tests_passed": 15,
+  "imported_hashes_verified": 40,
+  "entry_notebook_code_cells_parsed": 18,
+  "embedded_sources_parsed": 15,
+  "text_files_credential_scanned": 54,
+  "credential_scan_scope": "Common token and private-key signatures; not an exhaustive security audit",
+  "gpu_inference_run": false,
+  "v5_official_score": null
+}

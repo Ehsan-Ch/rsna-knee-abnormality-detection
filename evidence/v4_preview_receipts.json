@@ -1,0 +1,106 @@
+[
+  {
+    "cell": 2,
+    "event": "EHSAN_PREFLIGHT_PASS",
+    "data": {
+      "gpu_count": 2,
+      "gpu_names": [
+        "Tesla T4",
+        "Tesla T4"
+      ],
+      "internet_expected": "off",
+      "mounted_sources": [
+        "rsna-knee-abnormality-detection/test.csv",
+        "rsna-knee-publication-swa-weights-20261007/raptor_ft_alldata_t16_blendjev_oai_d96_r384_swa.pt",
+        "rsna-knee-publication-swa-weights-20261007/raptor_ft_alldata_t16_blendjev_oai_d96_c08_r224_swa.pt",
+        "rsna-knee-r6-fe055406/manifest.json",
+        "rsna-orthofoundation-fold0-epoch7-20261004/receipt.json"
+      ],
+      "optional_2p5d_reader": "disabled_by_design"
+    }
+  },
+  {
+    "cell": 11,
+    "event": "EHSAN_SCHEDULING",
+    "data": {
+      "loads": [
+        284,
+        273
+      ],
+      "studies": [
+        1,
+        2
+      ]
+    }
+  },
+  {
+    "cell": 15,
+    "event": "EHSAN_FINAL_AUDIT",
+    "data": {
+      "candidate": "Ehsan R6 V4 bounded I/O and branch-specific fallback (V3 baseline 0.958)",
+      "classes": [
+        "ACL",
+        "MCL",
+        "Medial Meniscus",
+        "Lateral Meniscus",
+        "Medial OA",
+        "Lateral OA",
+        "PF OA",
+        "Effusion",
+        "Synovitis",
+        "Baker's",
+        "Contusion",
+        "Fracture"
+      ],
+      "elapsed_sec": 514.6,
+      "main_model": "CoAtNet 384 + CoAtNet 224 mirror + Compact R6 flip TTA",
+      "official_score": null,
+      "optional_reader_applied": false,
+      "optional_reader_guard_status": "disabled_by_design",
+      "optional_reader_warning": "Optional 2.5D branch not executed in V3, by design",
+      "reader_coverage_receipt": null,
+      "reader_coverage_summary": null,
+      "rows": 3,
+      "sha256": "0df03e0fd8cf7f03d87f6a234f2417d2c31a6c98bfd952b122077965e4a53ca4",
+      "status": "PASS"
+    }
+  },
+  {
+    "cell": 15,
+    "event": "EHSAN_V4_OPTIMIZATION_AUDIT",
+    "data": {
+      "experiment": "Bounded byte cache, balanced scheduling, independent 224 failure mask",
+      "io_scheduling_and_fallback_changed": true,
+      "main_stage_weighting_unchanged": true,
+      "model_math_unchanged": true,
+      "official_score": null,
+      "ours_failed": 0,
+      "preview_sha256_matches_V2_pre_reader_stack": true,
+      "raptor_failed": 0,
+      "reader_disabled_by_design": true,
+      "reference_preview_base_sha256": "0df03e0fd8cf7f03d87f6a234f2417d2c31a6c98bfd952b122077965e4a53ca4",
+      "reference_preview_same_studies": true,
+      "rows": 3,
+      "stage3_blend_receipt": "blend_receipt.json",
+      "status": "PASS",
+      "submission_sha256": "0df03e0fd8cf7f03d87f6a234f2417d2c31a6c98bfd952b122077965e4a53ca4"
+    }
+  },
+  {
+    "cell": 15,
+    "event": "EHSAN_OPTIMIZATION_RESULT",
+    "data": {
+      "baseline_notebook_version": 360371736,
+      "baseline_public_auc_displayed": 0.958,
+      "candidate_public_auc": null,
+      "baseline_preview_pipeline_seconds": 553.6,
+      "candidate_preview_pipeline_seconds": 514.6,
+      "preview_identity_match": true,
+      "preview_submission_byte_parity": true,
+      "cache_limit_mib_per_loader": 128,
+      "io_threads_per_loader": 8,
+      "r224_failed": 0,
+      "accuracy_validation": "Not independently measured; public score requires Kaggle submission"
+    }
+  }
+]

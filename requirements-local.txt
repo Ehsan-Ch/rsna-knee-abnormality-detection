@@ -1,0 +1,4 @@
+# Local verification only; GPU inference uses the Kaggle offline bundles.
+# Versions used successfully in the project workspace.
+numpy==2.3.5
+pandas==3.0.1
